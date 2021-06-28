@@ -11,7 +11,8 @@ This is a jam dedicated to honouring the art style and input limitations of the 
 ## Play
 
 The game is available to play now in my itch.io page.
-<p align="center">
+
+<a href="https://evanmcconnell.itch.io/mirror-maze" align="center">
   <img width="230" height="75" src="https://camo.githubusercontent.com/a69504586b6810922dbd8cc3636a98b825f15cac3135053de7b640e97a3fe6cd/68747470733a2f2f7374617469632e697463682e696f2f696d616765732f62616467652e737667">
 </p>
 
